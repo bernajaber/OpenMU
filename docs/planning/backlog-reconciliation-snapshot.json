@@ -1,0 +1,31 @@
+{
+  "captured_date": "2026-10-22",
+  "timezone": "America/Sao_Paulo",
+  "purpose": "Immutable documentation evidence for backlog reconciliation; no implementation or runtime execution in this reconciliation.",
+  "local_head": "5881b20bce3ac8cb7ecf093b30a4acb22bc16e56",
+  "source_state": "Working-tree documentation snapshot; local source changes, private runtime artifacts, credentials, logs and dumps are not included. Branch base does not imply shutdown code is present there.",
+  "precedence": "Confirmed Q1–Q29 logs and consolidated/final confirmation override earlier proposal wording in the catalogue. Historical audit questions do not reopen those decisions.",
+  "validation_scope": "Laboratory outcomes and drop export are reports of earlier work; this reconciliation read the documentation and relevant code only, without rerunning tests or inspecting private evidence.",
+  "sources": [
+    {
+      "path": "docs/planning/phase-one-experiment-contract.md",
+      "sha256": "356742888494eec3e119f9c4b39c8294663bf63f2161cb86e9e4911f0c27ce53",
+      "bytes": 40695
+    },
+    {
+      "path": "deploy/isolated-test/Readme.md",
+      "sha256": "48609ec90087891c5bbd1db4625ac4bd6965a1405c0ef0e5f452f51db882571d",
+      "bytes": 8607
+    },
+    {
+      "path": "docs/planning/drop-baseline-audit.md",
+      "sha256": "13c47e85db64c440072918d93de4ba6c2aad2ddac0ce97400f777009fee5f708",
+      "bytes": 7115
+    },
+    {
+      "path": "GLOSSARY.md",
+      "sha256": "ffb1a95ce0978cf6f544d1860d8edca8b8dab3dbff1f8099a6f0a517857c3484",
+      "bytes": 2573
+    }
+  ]
+}
